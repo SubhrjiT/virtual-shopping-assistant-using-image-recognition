@@ -1,6 +1,4 @@
-Thank you for providing the Git clone URL. Based on the repository name and assuming it's related to a project called "Virtual Shopping Assistant using Image Recognition," here's a suggested README content:
 
----
 
 # Virtual Shopping Assistant using Image Recognition
 
@@ -66,4 +64,4 @@ Contributions to the Virtual Shopping Assistant project are welcome! If you'd li
 
 ## Contact
 
-For inquiries or feedback, feel free to contact the project maintainer at subhrajitbehera6370@gmail.com
+For inquiries or feedback, feel free to contact the project maintainer at [mailto:subhrajitbehera6370@gmail.com] subhrajitbehera6370@gmail.com
